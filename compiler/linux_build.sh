@@ -1,2 +1,2 @@
 mkdir -p build/linux/
-clang src/main.cpp $(< flags_linux.txt) -o build/linux/main
+clang $1 $(< flags_linux.txt) -o build/linux/$2
