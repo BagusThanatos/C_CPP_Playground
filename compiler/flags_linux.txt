@@ -1,4 +1,4 @@
--std=c++03
+-std=c99
 -O3
 -fno-exceptions
 -fno-rtti
